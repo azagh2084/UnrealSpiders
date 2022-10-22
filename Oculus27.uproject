@@ -16,6 +16,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
 		}
 	]
 }
