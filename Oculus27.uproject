@@ -43,10 +43,6 @@
 		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
-		},
-		{
-			"Name": "AndroidPermissions",
-			"Enabled": true
 		}
 	]
 }
